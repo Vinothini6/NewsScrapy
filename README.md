@@ -2,7 +2,7 @@
 
 # 
 
-# Run newsscrapy.py to collect the new articles from new websites
+# Run newsscrapy.py to collect the news articles from news websites
 
 	python newsscrapy.py
 
